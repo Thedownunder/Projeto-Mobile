@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269378323687",
+    "project_id": "portal-noticias-mobile",
+    "storage_bucket": "portal-noticias-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269378323687:android:f521a929c6d5eb4a3b8e42",
+        "android_client_info": {
+          "package_name": "com.example.teste2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3mzNTm8GsYE0G4IIC5SQzeqKiDCXObxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
